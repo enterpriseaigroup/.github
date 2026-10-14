@@ -1,3 +1,6 @@
+<!-- Required: plan path/URL, or "exempt — <reason>". See plan-before-code (tech-docs: how-to/how-we-work/plan-before-code). -->
+Plan:
+
 ## 1. Summary
  
 **Related ticket(s)**  
